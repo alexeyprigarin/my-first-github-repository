@@ -1,5 +1,5 @@
 # my-first-github-repository
-Here is First Github Repository
+Here is First Github Repository. Changed locally
 
 This line was modified manually during conflicts resolution
 
